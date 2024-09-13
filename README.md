@@ -1,19 +1,12 @@
-## Hi there 👋
-- I'm currently working on competitive programming. 
-- Codeforces: Retired_Isaunoya (max rating 2319)
-- Atcoder: _ayon
+### Hi there, I'm isaunoya! 👋
 
-<!--
-**isaunoya/isaunoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a competitive programmer passionate about algorithms, data structures, and problem-solving.
 
-Here are some ideas to get you started:
+- 🌟 **Codeforces**: [Retired_Isaunoya](https://codeforces.com/profile/Retired_Isaunoya) (Rating: 2319)
+- 💻 **Languages**: Primarily C++, but also experienced with Python
+- 🏆 **Specialization**: Algorithm Design, Competitive Programming, Data Structures
+- 🌱 **Currently Learning**: Deepening my knowledge in advanced algorithms and optimization techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories, where I share my solutions, projects, and experiments related to competitive programming!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaunoya&show_icons=true&theme=radical)
