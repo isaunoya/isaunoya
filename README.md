@@ -1,4 +1,7 @@
 ## Hi there 👋
+- I'm currently working on competitive programming. 
+- Codeforces: Retired_Isaunoya (max rating 2319)
+- Atcoder: _ayon
 
 <!--
 **isaunoya/isaunoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
